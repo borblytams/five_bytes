@@ -9,7 +9,8 @@ export const five_bytes = {
                     {clear_terminal: `CRTL + L`},
                     {create_folder: `mdkri`},
                     {list_files_and_folder: `ls`},
-                    {show_persent_working_directory: `pwd`}],
+                    {show_persent_working_directory: `pwd`},
+                    {create_a_file: `touch <filename>`},],
                 git: [
                     {status_check: `git status`},
                     {git_add_all_files: `git add .`},
