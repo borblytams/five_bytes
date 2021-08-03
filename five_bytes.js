@@ -1,3 +1,4 @@
+
 export const five_bytes = {
     team_name: `Five bytes`,
     helpers:[
@@ -10,7 +11,8 @@ export const five_bytes = {
                     {list_files_and_folder: `ls`},
                     {list_files_and_folders_witch_are_hidden: `la`},
                     {show_persent_working_directory: `pwd`},
-                    {create_a_file: `touch <filename>`}],
+                    {create_a_file: `touch <filename>`}
+                    {switch_between_windows: `ALT + TAB`}],
                 git: [
                     {initilise_git_project: `git init`},
                     {status_check: `git status`},
@@ -19,6 +21,9 @@ export const five_bytes = {
                     {git_add_all_files: `git add .`},
                     {git_add_all_files: `git add <filename>ls`},
                     {git_pull_files: `git pull <options> <repository>`},
+                ],
+                emacs:[
+                    {open_file: 'C x c f'}
                 ]
             }],
             }],
@@ -74,7 +79,7 @@ export const five_bytes = {
                             growth_mindset_general_borblytams: { 
                             started: true,
                             git_repo_link: `https://github.com/CodecoolGlobal/growth-mindset-general-borblytams`,
-                            codecool_project_link: ``,
+                            codecool_project_link: `https://journey.code.cool/v2/project/curriculum/project/growth-mindset/solo/general`,
                             project_git_cloned: true,
                             project_pushed_to_server: undefined,
                             finished: true,
@@ -99,7 +104,7 @@ export const five_bytes = {
                             mentorbot_general_borblytams: { 
                             started: true,
                             git_repo_link: `https://github.com/CodecoolGlobal/mentorbot-general-borblytams`,
-                            codecool_project_link: ``,
+                            codecool_project_link: `https://journey.code.cool/v2/project/curriculum/project/mentorbot/team/general`,
                             project_git_cloned: true,
                             project_pushed_to_server: undefined,
                             finished: true,
@@ -124,7 +129,7 @@ export const five_bytes = {
                             onboarding_general_borblytams: { 
                             started: true,
                             git_repo_link: `https://github.com/CodecoolGlobal/onboarding-general-borblytams`,
-                            codecool_project_link: ``,
+                            codecool_project_link: `https://journey.code.cool/v2/project/curriculum/project/onboarding/solo/general`,
                             project_git_cloned: true,
                             project_pushed_to_server: undefined,
                             finished: true,
@@ -149,7 +154,7 @@ export const five_bytes = {
                             spaceship_general_borblytams: { 
                             started: true,
                             git_repo_link: `https://github.com/CodecoolGlobal/spaceship-general-borblytams`,
-                            codecool_project_link: ``,
+                            codecool_project_link: `https://journey.code.cool/v2/project/curriculum/project/spaceship/solo/general`,
                             project_git_cloned: true,
                             project_pushed_to_server: undefined,
                             finished: true,
@@ -527,7 +532,8 @@ export const five_bytes = {
                                             time_spent: ``,
                                             questions: [],
                                             problems: [],
-                                            ideas: []
+                                            ideas: [],
+                                            functions: []
                                             }],
                                     review: {
                                         sent: false,
