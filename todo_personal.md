@@ -1,4 +1,4 @@
-# TODO_PERSONAL
+# TODO
     finish_data_collection_on_milestones        ["Tamás"]
     buy_big_ball_for_home                       ["Tamás"]
     add_google_drive_to_ubuntu                  ["Tamás"]
@@ -15,7 +15,12 @@
     do_todos_for_each_project                   ["five_bytes"]
     do_timetable                                ["five_bytes"]
     check_for_a_short_guthub_tutorial           ["Tamás"]
+    install_vim                                 ["Tamás"]
+    get_to_know_everything_about_configuration_file_types ["Tamás"]
+    get-to-know-how-many-chars-avaible-on-the-keyboard ["Tamás"]
 # IN_PROGRESS
+    finish_shortcut_collecting                   ["Tamás"]
+    write_my_own_emacs_config                    ["Tamás"]
     find_shortcuts_for_emacs                     ["Tamás"]
     update_project_sent_state_to_rewivew         ["Tamás"]
     add_review_check_data_to_model               ["Tamás"]
