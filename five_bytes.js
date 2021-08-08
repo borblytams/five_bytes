@@ -1,29 +1,58 @@
-
 export const five_bytes = {
     team_name: `Five bytes`,
     helpers:[
         {   google_docs: `https://docs.google.com/spreadsheets/d/1Y76vfs16T3yq3IT3j3IM4uUS3V_e_cflCg9KTCYdS_I/edit#gid=1688105392`,
             shortcuts: [
-            { 
+                {
                 linux: [
                     {clear_terminal: `CRTL + L`},
                     {create_folder: `mkdir <filename>`},
                     {list_files_and_folder: `ls`},
                     {list_files_and_folders_witch_are_hidden: `la`},
                     {show_persent_working_directory: `pwd`},
-                    {create_a_file: `touch <filename>`}
+                    {create_a_file: `touch <filename>`},
                     {switch_between_windows: `ALT + TAB`}],
                 git: [
-                    {initilise_git_project: `git init`},
-                    {status_check: `git status`},
-                    {git_commit: `git commit -m "commit message"`},
-                    {logging_git_commits: `git log`},
-                    {git_add_all_files: `git add .`},
-                    {git_add_all_files: `git add <filename>ls`},
-                    {git_pull_files: `git pull <options> <repository>`},
+                    {initilise_git_project:     `git init`},
+                    {status_check:              `git status`},
+                    {git_commit:                `git commit -m "commit message"`},
+                    {logging_git_commits:       `git log`},
+                    {git_add_all_files:         `git add .`},
+                    {git_add_all_files:         `git add <filename>ls`},
+                    {git_pull_files:            `git pull <options> <repository>`},
                 ],
-                emacs:[
-                    {open_file: 'C x c f'}
+                    emacs:[
+                        {files: [
+                            {open_file: 'c x c f'},
+                            {close_file: 'c x c ?'},
+                            {save_file: 'c x s'},
+                            {search_in_file: 'c f'},
+                            {buffer: [
+                                {open_buffer: 'c x c b'},
+                                {close_buffer: 'c x k'}]},
+                                {select_another_buffer: `c x b`},
+                                {list_all_buffer: `c x c b`},
+                            {transposing: [{transpose_character: `c z`},
+                                           {transpose_words: `lines`},
+                                           {transpose_lines: `c x c t`},
+                                           {transpose_sexp: `c M t`}]},
+                            {spell_shecking: [{}]}
+                        ]},
+                        {windows: []},
+                        {quit: []},
+                        {ghelp: []},
+                        {error_recoviery: []},
+                        {incremential_search: []},
+                        {motion: []},
+                        {killing_and_deleting: []},
+                        {marking: []},
+                        {query_replace: []},
+                        {formatting: []},
+                        {case_change: []},
+                        {minibuffer: []}
+                        
+                        
+                        
                 ]
             }],
             }],
