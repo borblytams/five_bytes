@@ -18,6 +18,11 @@
     install_vim                                 ["Tamás"]
     get_to_know_everything_about_configuration_file_types ["Tamás"]
     get-to-know-how-many-chars-avaible-on-the-keyboard ["Tamás"]
+    focus_my_school_goals_and_talk_with_mentors ["Tamás"]
+    write_unit_test_for_hangman                 ["Tamás"]
+    felvenni_a_kapcsolatot_dia_regi_csoporttarsaival ["Tamás"]
+    megszerezni_minden_codot_amit_a_codecool_hasznal ["Tamás"]
+    
 # IN_PROGRESS
     finish_shortcut_collecting                   ["Tamás"]
     write_my_own_emacs_config                    ["Tamás"]
