@@ -22,14 +22,20 @@
     write_unit_test_for_hangman                 ["Tamás"]
     felvenni_a_kapcsolatot_dia_regi_csoporttarsaival ["Tamás"]
     megszerezni_minden_codot_amit_a_codecool_hasznal ["Tamás"]
-    
-# IN_PROGRESS
     finish_shortcut_collecting                   ["Tamás"]
     write_my_own_emacs_config                    ["Tamás"]
     find_shortcuts_for_emacs                     ["Tamás"]
     update_project_sent_state_to_rewivew         ["Tamás"]
     add_review_check_data_to_model               ["Tamás"]
     add_failed_review_updated_and_passed_data_field_to_model ["Tamás"]
+    use_new_email                                ["Tamás"]
+    clear_borblytams_email                       ["Tamás"]
+# IN_PROGRESS
+    refactor_five_bytes_data_holder_file         ["Tamás"]
+    ask_the_fourth_team_name_and_make_their_folders ["Tamás"]
+    refactor_base_data_storage_five_byte_js_file ["Tamás"]
+    clone_all_github_project_for_the_third_week ["Tamás"]
+    ask_mentor_how_to_fix_embedded_codecool_repo ["Tamás"]
 # DONE
     add_codecool_project_links_to_data_structure                ["Tamás"]
     download_app_for_opening_the_door                           ["Tamás"]
